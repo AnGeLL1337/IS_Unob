@@ -7,7 +7,6 @@
 
 # testing
 /coverage
-**/.coverage
 
 # production
 /build
@@ -25,9 +24,3 @@ yarn-error.log*
 
 config.json
 data.json
-_extradata
-
-**/__pycache__
-*.pyc
-**/.pytest_cache
-**/.venv
